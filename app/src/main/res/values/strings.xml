@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppProject</string>
+    <string name="wlc_word">Welcome</string>
+    <string name="app_Name">Food Delivery App</string>
+    <string name="start_message">Get Started</string>
+    <string name="Static_Name">Hi,</string>
+    <string name="oAnde">Order &amp; Eat</string>
+    <string name="searchMessage">Search Your Food</string>
+    <string name="FreeDeliveryMessage">Free Delivery</string>
+    <string name="OfferDuration">Summer Time</string>
+    <string name="MotivationMessage">Order Now</string>
+    <string name="Categories">Categories</string>
+    <string name="Populer">Populer</string>
+    <string name="HomeIcon">Homa</string>
+    <string name="profileIcon">Profile</string>
+    <string name="SupportIcon">Support</string>
+    <string name="settingsIcon">Settings</string>
+    <string name="addToCart">Add To Cart</string>
+    <string name="MyCart">My Cart</string>
+    <string name="itemsTotal">Items Total :</string>
+    <string name="DelService">Delivery Services :</string>
+    <string name="TaxMessage">Tax :</string>
+
+
+</resources>
